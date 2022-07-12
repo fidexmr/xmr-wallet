@@ -1,0 +1,17 @@
+{
+  "name": "monero-crowdfund",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Fidexmr <fidexmr@dnmx.org>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "monero-javascript": "^0.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
