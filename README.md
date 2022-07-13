@@ -13,3 +13,9 @@ monero-wallet-rpc --rpc-login user1:test1 --rpc-access-control-origins http://lo
 ```
 
 Then `yarn start`. The result should appear in the console.
+
+## Todo
+
+1. Divide per subaddress.
+1. Why is it so slow?
+1. Try with remote nodes (pw??).
