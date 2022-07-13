@@ -19,3 +19,5 @@ Then `yarn start`. The result should appear in the console.
 1. Divide per subaddress.
 1. Why is it so slow?
 1. Try with remote nodes (pw??).
+1. Do front-end
+1. Do back-end
